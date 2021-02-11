@@ -1,0 +1,27 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: blueviolet;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+body {
+  background-color: black;
+  color: coral;
+  font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif; font-style: normal;
+}
+strong {
+  font-style: italic;
+  background-color: yellowgreen;
+}
+em {
+  font-weight: bold;
+}
